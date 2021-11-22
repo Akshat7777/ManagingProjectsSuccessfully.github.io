@@ -8,8 +8,12 @@ anrechnung: k
 Zunächst eine kurze Beschreibung bzw. Erklärung des Begriffs: 
 Betrachtet man sich nur den Begriff "Definiton of done" wird einem bewusst, dass es sich um eine Definiton von etwas erledigtem oder geschehenem handeln muss. Das ist auch grundlegend der richtige Gedanke, welcher im folgenden nun vertieft erläutert wird.
 
-## Definiton des Begriffs "Definiton of Done"
+## Definiton des Begriffs "Definiton of Done (DoD)"
 Die Definiton of Done dient dazu, die Qualitätskriterien als eine Art Checkliste festzulegen und somit ein grundlegendes Verständnis für das Team schaffen, wann eine Aufgabe erfüllt ist [1]. Diese Kritierien müssen erfüllt sein, damit die Aufgabe als fertig angesehen werden kann. Gerade im Hinblick auf Teamarbeit ist es wichtig einen gemeinsamen vordefinierten Maßstab zu haben um Komplikationen und Missverständnisse in der zusammenarbeit zu vermeiden. Diese resultieren meist in Verzögerungen des Projekts [2]. 
+Es ist jedoch wichtig festzuhalten, dass die Definiton of Done bezieht sich auf alle Bestandteile des Product Backlog [3].
+
+## Anwendung der DoD
+
 
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
@@ -104,6 +108,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]:  [DIE DEFINITION OF DONE IN SCRUM] (https://www.online-projektmanagement.info/agiles-projektmanagement-scrum-methode/scrum-artfakte/definition-of-done/) 
 [^2]: [The Definition of Done Wann ist ein Projekt wirklich „fertig“?] (https://nativdigital.com/definition-of-done/) 
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: [The Definition of Done Wann ist ein Projekt wirklich „fertig“?] (https://nativdigital.com/definition-of-done/)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 

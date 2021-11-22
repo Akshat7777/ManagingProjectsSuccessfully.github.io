@@ -23,9 +23,15 @@ Wie bereits erwähnt ist es stark von Team und Projekt abhängig, wie die DoD fo
 
 ### Vorteile durch das Festlegen einer DoD
 
+Durch das Festlegen ergeben sich eine Reihe von Vorteilen: 
+
+1. Erleichterung der Mitarbeit im Team: 
+Durch das gemeinsame festelegen der Ziele und dem abstimmen im Team wird eine gute Basis der Zusammenarbeit geschaffen, welche über die Dauer des Projekts von Vorteil ist, da das Ziel ein gemeinsames ist und somit die Arbeit zielgerichet in die gleiche Richtung geschieht [8].
+
+2.                                                                                                                                              
 
 
-
+            
 
 # Siehe auch
 
@@ -45,3 +51,4 @@ Wie bereits erwähnt ist es stark von Team und Projekt abhängig, wie die DoD fo
 [^5]:  [Definition of Done – so geht es!] (https://scrum.wertikalwerk.com/guide/definition-of-done/)
 [^6]:  [Definition of Done – so geht es!] (https://scrum.wertikalwerk.com/guide/definition-of-done/)
 [^7]:  [The Definition of Done Wann ist ein Projekt wirklich „fertig“?] (https://nativdigital.com/definition-of-done/)
+[^8]: [The Definition of Done Wann ist ein Projekt wirklich „fertig“?] (https://nativdigital.com/definition-of-done/)

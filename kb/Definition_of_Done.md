@@ -28,7 +28,7 @@ Durch das Festlegen ergeben sich eine Reihe von Vorteilen:
 1. Erleichterung der Mitarbeit im Team: 
 Durch das gemeinsame festelegen der Ziele und dem abstimmen im Team wird eine gute Basis der Zusammenarbeit geschaffen, welche über die Dauer des Projekts von Vorteil ist, da das Ziel ein gemeinsames ist und somit die Arbeit zielgerichet in die gleiche Richtung geschieht [8].
 
-2.                                                                                                                                              
+2.                                                                                                                                          
 
 
             

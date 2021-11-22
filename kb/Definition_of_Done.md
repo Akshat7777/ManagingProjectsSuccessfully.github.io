@@ -85,8 +85,11 @@ Durch das vorher bereits definierte Ziel und die häufigeren Iterationen der ver
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Scrum] (https://github.com/Akshat7777/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) 
-* 
+* [Scrum](https://github.com/Akshat7777/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) 
+* [Scrum Master](https://github.com/Akshat7777/ManagingProjectsSuccessfully.github.io/blob/main/kb/Scrum_Master.md)
+* [Product Backlog](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Backlog.md)
+* [Sprint Planning](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Sprint_Planning.md)
+* [Product Owner](https://github.com/ManagingProjectsSuccessfully/ManagingProjectsSuccessfully.github.io/blob/main/kb/Product_Owner.md) 
 
 # Weiterführende Literatur
 * (https://nativdigital.com/definition-of-done/)

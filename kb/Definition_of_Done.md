@@ -85,11 +85,15 @@ Durch das vorher bereits definierte Ziel und die häufigeren Iterationen der ver
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Scrum] (https://github.com/Akshat7777/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) (Definition_of_Done.md)
+* [Scrum] (https://github.com/Akshat7777/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) 
+* 
 
 # Weiterführende Literatur
+* (https://nativdigital.com/definition-of-done/)
+* (https://www.online-projektmanagement.info/agiles-projektmanagement-scrum-methode/scrum-artfakte/definition-of-done/)
+* (https://dl.acm.org/doi/abs/10.1145/3084226.3084262)
+* (https://www.youtube.com/watch?v=4uHoW3c2EFs)
 
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 

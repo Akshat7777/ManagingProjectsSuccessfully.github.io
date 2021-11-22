@@ -16,8 +16,12 @@ Es ist jedoch wichtig festzuhalten, dass die Definiton of Done bezieht sich auf 
 Die DoD wird häufig in Scrum Projekten bzw. in agilen Projekten eingesetzt [4]. Besonders sinvoll ist dies bei der Produktentwicklung, weil so jeweils am Ende von Sprints die Möglichkeit besteht, sich vom Kunden individuelles Feedback zu holen und somit die Zufriedenheit der Kunden deutlich zu erhöhen und die Prozesse effizient zu gestalten [5]. 
 
 ### Mögliche Fragestellung einer Definition of Done? 
+
+Für eine konkrete Definition ist es wichtig, dass die Product Owner sich mit dem Entwicklungsteam zusammen absprechen, wobei hierbei das Entwicklungsteam hier eher die Richtung bestimmen sollte. Darüber hinaus ist es ebenfalls möglich, dass die Scrum-Master einen wichtigen Input liefern können [6]. 
 Wie bereits erwähnt ist es stark von Team und Projekt abhängig, wie die DoD formuliert werden kann, dementsprechend gibt es keine allgemein gültige Erklärung, jedoch lässt sich beispielsweise durch diese Fragestellung eine Orientierung ableiten: 
-" Welche Tätigkeiten sind momentan notwendig, um den Kunden das erwünschte Projekt zu liefern?" [6]. 
+" Welche Tätigkeiten sind momentan notwendig, um den Kunden das erwünschte Projekt zu liefern?" [7]. 
+
+### Vorteile durch das Festlegen einer DoD
 
 
 
@@ -39,4 +43,5 @@ Wie bereits erwähnt ist es stark von Team und Projekt abhängig, wie die DoD fo
 [^3]:  [The Definition of Done Wann ist ein Projekt wirklich „fertig“?] (https://nativdigital.com/definition-of-done/)
 [^4]:  [The Definition of Done Wann ist ein Projekt wirklich „fertig“?] (https://nativdigital.com/definition-of-done/)
 [^5]:  [Definition of Done – so geht es!] (https://scrum.wertikalwerk.com/guide/definition-of-done/)
-[^6]:  [The Definition of Done Wann ist ein Projekt wirklich „fertig“?] (https://nativdigital.com/definition-of-done/)
+[^6]:  [Definition of Done – so geht es!] (https://scrum.wertikalwerk.com/guide/definition-of-done/)
+[^7]:  [The Definition of Done Wann ist ein Projekt wirklich „fertig“?] (https://nativdigital.com/definition-of-done/)

@@ -6,7 +6,10 @@ anrechnung: k
 ---
 
 Zunächst eine kurze Beschreibung bzw. Erklärung des Begriffs: 
-Betrachtet man sich nur den Begriff "definiton of done" wird einem bewusst, dass es sich um eine Definiton von etwas erledigtem oder geschehenem handeln muss. Das ist auch 
+Betrachtet man sich nur den Begriff "Definiton of done" wird einem bewusst, dass es sich um eine Definiton von etwas erledigtem oder geschehenem handeln muss. Das ist auch grundlegend der richtige Gedanke, welcher im folgenden nun vertieft erläutert wird.
+
+## Definiton des Begriffs "Definiton of Done"
+Die Definiton of Done dient dazu, die Qualitätskriterien als eine Art Checkliste festzulegen und somit die 
 
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut

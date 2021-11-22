@@ -85,7 +85,7 @@ Durch das vorher bereits definierte Ziel und die häufigeren Iterationen der ver
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Definition_of_Done.md)
+* [Scrum] (https://github.com/Akshat7777/ManagingProjectsSuccessfully.github.io/blob/main/kb/SCRUM.md) (Definition_of_Done.md)
 
 # Weiterführende Literatur
 

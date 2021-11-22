@@ -66,6 +66,8 @@ Durch das Festlegen der gemeinsamen Ziele, herrscht auch ein denkrichtiges Bild 
 3. Reduzierung des Riskios:
 Durch das vorher bereits definierte Ziel und die häufigeren Iterationen der verschiedenen Abläufe ist die Gefahr, ein unbefriedigendes Ergebnis zu erzielen, deutlich geringer. So helfen auch die kürzeren Zeiten der Zwischenergebnisse deutlich Fehler rechzeitig zu erkennen und diesen bestmöglich entgegenzuwirken [10].
 
+
+
 ![image](https://user-images.githubusercontent.com/92781625/142936196-01f9509c-5037-4c5c-a4fe-dcd23800d661.png) [11]
 
 

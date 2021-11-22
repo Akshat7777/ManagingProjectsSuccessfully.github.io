@@ -2,10 +2,12 @@
 title: Definition_of_Done
 tags: agil klassisch
 author: Akshat7777
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Definition_of_Done um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Zunächst eine kurze Beschreibung bzw. Erklärung des Begriffs: 
+Betrachtet man sich nur den Begriff "definiton of done" wird einem bewusst, dass es sich um eine Definiton von etwas erledigtem oder geschehenem handeln muss. Das ist auch 
+
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).

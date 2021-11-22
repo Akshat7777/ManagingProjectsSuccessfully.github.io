@@ -13,7 +13,8 @@ Die Definiton of Done dient dazu, die Qualitätskriterien als eine Art Checklist
 Es ist jedoch wichtig festzuhalten, dass die Definiton of Done bezieht sich auf alle Bestandteile des Product Backlog [3].
 
 ## Anwendung der DoD
-Die DoD wird häufig in Scrum Projekten bzw. in agilen Projekten eingesetzt [4]. Besonders sinvoll ist dies bei der Produktentwicklung, weil so jeweils am Ende von Sprints die Möglichkeit besteht, sich vom Kunden individuelles Feedback zu holen und somit die Zufriedenheit der Kunden deutlich zu erhöhen und die Prozesse effizient zu gestalten [5]. 
+Die Definition of Done wird häufig in Scrum Projekten bzw. in agilen Projekten eingesetzt [4]. Besonders sinvoll ist dies bei der Produktentwicklung, weil so jeweils am Ende von Sprints die Möglichkeit besteht, sich vom Kunden individuelles Feedback zu holen und somit die Zufriedenheit der Kunden deutlich zu erhöhen und die Prozesse effizient zu gestalten [5]. 
+Jedoch ist das gemeinsame Abstimmen sowie die vorher festgelegte Definition of Done eine sinnvolle Maßnahme eine geeignete Ebene bzw. Basis der Qualität als auch der Kommunikation und kann durchaus auch in Hybriden Projektmanagementansätzen angewandt werden.
 
 ### Mögliche Fragestellung einer Definition of Done? 
 
@@ -30,6 +31,9 @@ Durch das gemeinsame festelegen der Ziele und dem abstimmen im Team wird eine gu
 
 2. Sicherung der Qualität
 Durch das Festlegen der gemeinsamen Ziele, herrscht auch ein denkrichtiges Bild von Qualitätsansprüchen, welches gelten muss, damit die Aufgabe als beendet angesehen werden kann. Dies erleichert die interne Abstimmung sowie die Kommunikation, da es keinen disput über die Ergebnisse der anderen gibt [9]. 
+
+3. Reduzierung des Riskios:
+Durch das vorher bereits definierte Ziel und die häufigeren Iterationen der verschiedenen Abläufe ist die Gefahr, ein unbefriedigendes Ergebnis zu erzielen, deutlich geringer. So helfen auch die kürzeren Zeiten der Zwischenergebnisse deutlich Fehler rechzeitig zu erkennen und diesen bestmöglich entgegenzuwirken [10].
 
 
             
@@ -54,3 +58,4 @@ Durch das Festlegen der gemeinsamen Ziele, herrscht auch ein denkrichtiges Bild 
 [^7]:  [The Definition of Done Wann ist ein Projekt wirklich „fertig“?] (https://nativdigital.com/definition-of-done/)
 [^8]:  [The Definition of Done Wann ist ein Projekt wirklich „fertig“?] (https://nativdigital.com/definition-of-done/)
 [^9]:  [Definition of Done – so geht es!] (https://scrum.wertikalwerk.com/guide/definition-of-done/)
+[^10]:  [Definition of Done – so geht es!] (https://scrum.wertikalwerk.com/guide/definition-of-done/)

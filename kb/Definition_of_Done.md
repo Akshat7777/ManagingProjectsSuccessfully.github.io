@@ -111,3 +111,4 @@ Durch das vorher bereits definierte Ziel und die häufigeren Iterationen der ver
 [^9]:  [Definition of Done – so geht es!] (https://scrum.wertikalwerk.com/guide/definition-of-done/)
 [^10]:  [Definition of Done – so geht es!] (https://scrum.wertikalwerk.com/guide/definition-of-done/)
 [^11]:  [Was ist die "Definition of Done" (DoD] (https://user-images.githubusercontent.com/92781625/142936196-01f9509c-5037-4c5c-a4fe-dcd23800d661.png)
+
